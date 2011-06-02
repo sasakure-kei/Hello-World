@@ -1,1 +1,1 @@
-echo 'Hellow World';
+print 'Hellow World';
