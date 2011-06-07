@@ -1,4 +1,4 @@
-#comment 1
+#comment 3
 
 $str = 'hello world!';
 $n_str = join '', map { ucfirst($_) } split /(\s+)/, $str;
