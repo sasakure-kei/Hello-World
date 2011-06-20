@@ -9,7 +9,6 @@ my $sub_name = \&say_aword;
 
 $sub_name->($n_str);
 
-
 exit;
 
 sub say_aword
